@@ -23,7 +23,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 -   ~Gdrive file clonning using Gclone~ `DONE ✓`
 -   [ ] Adding mp3 files support while playlist downloading.
 -   [ ] Password support while Unarchiving the files.
--   [✓ ] Selection of required files during leeching the big files using aria(/leech command)
+-    ✓ Selection of required files during leeching the big files using aria(/leech command)
 
 ### Credit goes to SpEcHiDe for his hard work.
 
