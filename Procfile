@@ -1,1 +1,1 @@
-worker: python3 -m torbot
+worker: python3 -m tobrot
