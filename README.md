@@ -1,7 +1,4 @@
-# for support join here [TorrentLeech-Gdrive](https://telegram.dog/GBotStore)
-# working example group [Leech Here](https://telegram.dog/GBotStore)
-
-# Telegram Torrent Leecher 🔥🤖
+### Telegram Torrent Leecher 🔥🤖
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
@@ -28,7 +25,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 -   [ ] Password support while Unarchiving the files.
 -   [ ] Selection of required files during leeching the big files using aria(/leech command)
 
-### Credit goes to SpEcHiDe for his Publicleech repo.
+### Credit goes to SpEcHiDe for his hard work.
 
 ## installing...
 
@@ -50,13 +47,13 @@ f)Then tap 👇👇
 
  Heroku is not supported now 😕 #Dead
 
-Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentLeech-Gdrive#process-to-run-this-bot-on-vps)
+Better buy a vps 😐 and follow [this](https://github.com/kirodewal/torrent-gdrive#process-to-run-this-bot-on-vps)
 
 ## Process to run this BOT on VPS
 
 - Clone this repo:
 ```
-git clone https://github.com/gautamajay52/TorrentLeech-Gdrive torrentleech-gdrive
+git clone https://github.com/kirodewal/torrent-gdrive torrent-gdrive
 cd torrentleech-gdrive
 ```
 
@@ -77,7 +74,7 @@ After this step you will see a new file named ```config.py``` in tobrot director
 
 Follow and fill all the required variables that were already filled in the sample config file, but with your details. And you can also fill all other variables according to your need and all those are explained below.
 
-If you need more explanation about any variable then read [app.jso](https://github.com/gautamajay52/TorrentLeech-Gdrive/blob/master/app.jso)
+If you need more explanation about any variable then read [app.jso](https://github.com/kirodewal/torrent-gdrive/blob/master/app.jso)
 
 ## Deploying
 
@@ -87,19 +84,19 @@ sudo dockerd
 ```
 - Build Docker image:
 ```
-sudo docker build . -t torrentleech-gdrive
+sudo docker build . -t torrent-gdrive
 ```
 - Run the image:
 ```
-sudo docker run torrentleech-gdrive
+sudo docker run torrent-gdrive
 ```
 
 ### The Legacy Way
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/gautamajay52/TorrentLeech-Gdrive
-cd TorrentLeech-Gdrive
+git clone https://github.com/kirodewal/torrent-gdrive
+cd torrent-gdrive
 python3 -m venv venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -172,7 +169,7 @@ and everythin except `[NAME]`
 8. Examples:-
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/gautamajay52/TorrentLeech-Gdrive/master/rclone.jpg" width="470" height="150">
+  <img src="https://raw.githubusercontent.com/kirodewal/torrent-gdrive/master/rclone.jpg" width="470" height="150">
 
 </p>
 
@@ -303,7 +300,7 @@ the file will be uploaded as `new.txt`.
 
 
 ## Credits, and Thanks to
-* [GautamKumar(me)](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
+* [Kirodewal(me)](https://github.com/kirodewal) 😬
 * [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
 * [Rclone Team](https://rclone.org) for theirs awesome tool☁️
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
